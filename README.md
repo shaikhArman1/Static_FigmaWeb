@@ -5,3 +5,5 @@
 <!-- commit-log: 2026-02-03T10:55:42 - feat: add favicon and social preview image -->
 
 <!-- commit-log: 2026-02-07T09:07:23 - style: refine typography and spacing across sections -->
+
+<!-- commit-log: 2026-02-11T14:31:28 - style: update footer layout and link styles -->
