@@ -7,3 +7,5 @@
 <!-- commit-log: 2026-02-07T09:07:23 - style: refine typography and spacing across sections -->
 
 <!-- commit-log: 2026-02-11T14:31:28 - style: update footer layout and link styles -->
+
+<!-- commit-log: 2026-02-15T09:05:02 - fix: correct meta tags for better SEO -->
