@@ -9,3 +9,5 @@
 <!-- commit-log: 2026-02-11T14:31:28 - style: update footer layout and link styles -->
 
 <!-- commit-log: 2026-02-15T09:05:02 - fix: correct meta tags for better SEO -->
+
+<!-- commit-log: 2026-02-18T15:25:46 - style: refine typography and spacing across sections -->
