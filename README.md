@@ -11,3 +11,5 @@
 <!-- commit-log: 2026-02-15T09:05:02 - fix: correct meta tags for better SEO -->
 
 <!-- commit-log: 2026-02-18T15:25:46 - style: refine typography and spacing across sections -->
+
+<!-- commit-log: 2026-02-23T09:09:43 - fix: ensure images have proper alt attributes -->
