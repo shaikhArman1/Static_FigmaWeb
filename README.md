@@ -15,3 +15,5 @@
 <!-- commit-log: 2026-02-23T09:09:43 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-02-23T22:32:43 - feat: add back-to-top button functionality -->
+
+<!-- commit-log: 2026-02-24T20:24:02 - feat: add back-to-top button functionality -->
