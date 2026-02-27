@@ -19,3 +19,5 @@
 <!-- commit-log: 2026-02-24T20:24:02 - feat: add back-to-top button functionality -->
 
 <!-- commit-log: 2026-02-26T16:31:42 - fix: resolve layout shift on smaller viewports -->
+
+<!-- commit-log: 2026-02-27T15:17:45 - style: improve card hover animations -->
