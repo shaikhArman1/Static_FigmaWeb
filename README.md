@@ -21,3 +21,5 @@
 <!-- commit-log: 2026-02-26T16:31:42 - fix: resolve layout shift on smaller viewports -->
 
 <!-- commit-log: 2026-02-27T15:17:45 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-03-03T15:16:51 - fix: correct meta tags for better SEO -->
