@@ -25,3 +25,5 @@
 <!-- commit-log: 2026-03-03T15:16:51 - fix: correct meta tags for better SEO -->
 
 <!-- commit-log: 2026-03-11T10:29:35 - fix: resolve layout shift on smaller viewports -->
+
+<!-- commit-log: 2026-03-13T21:00:41 - style: update footer layout and link styles -->
