@@ -27,3 +27,5 @@
 <!-- commit-log: 2026-03-11T10:29:35 - fix: resolve layout shift on smaller viewports -->
 
 <!-- commit-log: 2026-03-13T21:00:41 - style: update footer layout and link styles -->
+
+<!-- commit-log: 2026-03-16T18:16:16 - feat: add contact form with basic validation -->
