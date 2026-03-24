@@ -31,3 +31,5 @@
 <!-- commit-log: 2026-03-16T18:16:16 - feat: add contact form with basic validation -->
 
 <!-- commit-log: 2026-03-17T12:52:20 - feat: add testimonials section to landing page -->
+
+<!-- commit-log: 2026-03-24T13:52:45 - feat: add smooth scroll behavior to nav links -->
