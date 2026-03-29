@@ -33,3 +33,5 @@
 <!-- commit-log: 2026-03-17T12:52:20 - feat: add testimonials section to landing page -->
 
 <!-- commit-log: 2026-03-24T13:52:45 - feat: add smooth scroll behavior to nav links -->
+
+<!-- commit-log: 2026-03-29T17:40:12 - style: update hero section with improved gradient -->
