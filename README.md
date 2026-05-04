@@ -37,3 +37,5 @@
 <!-- commit-log: 2026-03-29T17:40:12 - style: update hero section with improved gradient -->
 
 <!-- commit-log: 2026-05-04T09:36:55 - feat: add back-to-top button functionality -->
+
+<!-- commit-log: 2026-05-04T13:43:16 - fix: correct meta tags for better SEO -->
