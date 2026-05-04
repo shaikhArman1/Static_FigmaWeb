@@ -41,3 +41,5 @@
 <!-- commit-log: 2026-05-04T13:43:16 - fix: correct meta tags for better SEO -->
 
 <!-- commit-log: 2026-05-04T15:58:28 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-05-04T17:11:30 - feat: add testimonials section to landing page -->
