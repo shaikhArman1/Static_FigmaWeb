@@ -45,3 +45,5 @@
 <!-- commit-log: 2026-05-04T17:11:30 - feat: add testimonials section to landing page -->
 
 <!-- commit-log: 2026-05-04T20:52:06 - fix: correct grid alignment in features section -->
+
+<!-- commit-log: 2026-06-01T10:37:20 - fix: remove unused CSS declarations -->
