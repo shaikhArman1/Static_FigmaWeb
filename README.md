@@ -51,3 +51,5 @@
 <!-- commit-log: 2026-06-01T13:09:13 - feat: add favicon and social preview image -->
 
 <!-- commit-log: 2026-06-01T15:42:17 - docs: update HTML comments for clarity -->
+
+<!-- commit-log: 2026-06-01T16:25:47 - fix: ensure images have proper alt attributes -->
