@@ -47,3 +47,5 @@
 <!-- commit-log: 2026-05-04T20:52:06 - fix: correct grid alignment in features section -->
 
 <!-- commit-log: 2026-06-01T10:37:20 - fix: remove unused CSS declarations -->
+
+<!-- commit-log: 2026-06-01T13:09:13 - feat: add favicon and social preview image -->
