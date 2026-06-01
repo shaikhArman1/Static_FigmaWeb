@@ -55,3 +55,5 @@
 <!-- commit-log: 2026-06-01T16:25:47 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-06-01T19:56:46 - feat: add smooth scroll behavior to nav links -->
+
+<!-- commit-log: 2026-06-01T22:48:25 - style: polish section transitions with AOS -->
