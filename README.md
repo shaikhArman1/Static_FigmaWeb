@@ -53,3 +53,5 @@
 <!-- commit-log: 2026-06-01T15:42:17 - docs: update HTML comments for clarity -->
 
 <!-- commit-log: 2026-06-01T16:25:47 - fix: ensure images have proper alt attributes -->
+
+<!-- commit-log: 2026-06-01T19:56:46 - feat: add smooth scroll behavior to nav links -->
