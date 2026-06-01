@@ -49,3 +49,5 @@
 <!-- commit-log: 2026-06-01T10:37:20 - fix: remove unused CSS declarations -->
 
 <!-- commit-log: 2026-06-01T13:09:13 - feat: add favicon and social preview image -->
+
+<!-- commit-log: 2026-06-01T15:42:17 - docs: update HTML comments for clarity -->
