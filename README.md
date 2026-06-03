@@ -59,3 +59,5 @@
 <!-- commit-log: 2026-06-01T22:48:25 - style: polish section transitions with AOS -->
 
 <!-- commit-log: 2026-06-03T11:41:53 - feat: add smooth scroll behavior to nav links -->
+
+<!-- commit-log: 2026-06-03T11:43:40 - fix: correct meta tags for better SEO -->
