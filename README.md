@@ -61,3 +61,5 @@
 <!-- commit-log: 2026-06-03T11:41:53 - feat: add smooth scroll behavior to nav links -->
 
 <!-- commit-log: 2026-06-03T11:43:40 - fix: correct meta tags for better SEO -->
+
+<!-- commit-log: 2026-06-03T13:13:19 - feat: add testimonials section to landing page -->
