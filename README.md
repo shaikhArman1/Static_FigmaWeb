@@ -65,3 +65,5 @@
 <!-- commit-log: 2026-06-03T13:13:19 - feat: add testimonials section to landing page -->
 
 <!-- commit-log: 2026-06-03T21:34:24 - chore: minify and organize CSS rules -->
+
+<!-- commit-log: 2026-06-03T22:20:24 - chore: minify and organize CSS rules -->
