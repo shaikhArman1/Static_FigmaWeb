@@ -67,3 +67,5 @@
 <!-- commit-log: 2026-06-03T21:34:24 - chore: minify and organize CSS rules -->
 
 <!-- commit-log: 2026-06-03T22:20:24 - chore: minify and organize CSS rules -->
+
+<!-- commit-log: 2026-06-08T13:00:07 - style: improve card hover animations -->
