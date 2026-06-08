@@ -69,3 +69,5 @@
 <!-- commit-log: 2026-06-03T22:20:24 - chore: minify and organize CSS rules -->
 
 <!-- commit-log: 2026-06-08T13:00:07 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-06-08T15:16:19 - style: polish section transitions with AOS -->
