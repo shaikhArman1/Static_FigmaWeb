@@ -73,3 +73,5 @@
 <!-- commit-log: 2026-06-08T15:16:19 - style: polish section transitions with AOS -->
 
 <!-- commit-log: 2026-06-08T16:12:51 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-06-08T17:32:02 - style: improve mobile hamburger menu styling -->
