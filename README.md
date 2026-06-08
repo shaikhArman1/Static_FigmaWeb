@@ -75,3 +75,5 @@
 <!-- commit-log: 2026-06-08T16:12:51 - style: improve card hover animations -->
 
 <!-- commit-log: 2026-06-08T17:32:02 - style: improve mobile hamburger menu styling -->
+
+<!-- commit-log: 2026-06-08T19:21:33 - docs: update HTML comments for clarity -->
