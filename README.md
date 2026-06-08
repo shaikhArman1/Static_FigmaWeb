@@ -71,3 +71,5 @@
 <!-- commit-log: 2026-06-08T13:00:07 - style: improve card hover animations -->
 
 <!-- commit-log: 2026-06-08T15:16:19 - style: polish section transitions with AOS -->
+
+<!-- commit-log: 2026-06-08T16:12:51 - style: improve card hover animations -->
