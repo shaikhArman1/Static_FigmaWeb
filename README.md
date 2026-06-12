@@ -83,3 +83,5 @@
 <!-- commit-log: 2026-06-12T10:38:02 - feat: add favicon and social preview image -->
 
 <!-- commit-log: 2026-06-12T12:34:57 - fix: correct grid alignment in features section -->
+
+<!-- commit-log: 2026-06-12T14:15:16 - feat: add back-to-top button functionality -->
