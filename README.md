@@ -87,3 +87,5 @@
 <!-- commit-log: 2026-06-12T14:15:16 - feat: add back-to-top button functionality -->
 
 <!-- commit-log: 2026-06-12T15:02:50 - style: refine typography and spacing across sections -->
+
+<!-- commit-log: 2026-06-12T19:21:52 - feat: add cookie consent banner -->
