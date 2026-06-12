@@ -89,3 +89,5 @@
 <!-- commit-log: 2026-06-12T15:02:50 - style: refine typography and spacing across sections -->
 
 <!-- commit-log: 2026-06-12T19:21:52 - feat: add cookie consent banner -->
+
+<!-- commit-log: 2026-06-12T20:22:11 - fix: correct grid alignment in features section -->
