@@ -79,3 +79,5 @@
 <!-- commit-log: 2026-06-08T19:21:33 - docs: update HTML comments for clarity -->
 
 <!-- commit-log: 2026-06-08T22:45:21 - fix: correct meta tags for better SEO -->
+
+<!-- commit-log: 2026-06-12T10:38:02 - feat: add favicon and social preview image -->
