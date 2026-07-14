@@ -93,3 +93,5 @@
 <!-- commit-log: 2026-06-12T20:22:11 - fix: correct grid alignment in features section -->
 
 <!-- commit-log: 2026-07-14T15:41:33 - feat: add favicon and social preview image -->
+
+<!-- commit-log: 2026-07-14T16:40:34 - docs: update HTML comments for clarity -->
