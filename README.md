@@ -99,3 +99,5 @@
 <!-- commit-log: 2026-07-29T10:33:45 - feat: add contact form with basic validation -->
 
 <!-- commit-log: 2026-07-29T13:51:57 - style: update footer layout and link styles -->
+
+<!-- commit-log: 2026-07-29T16:56:42 - fix: correct grid alignment in features section -->
