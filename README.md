@@ -95,3 +95,5 @@
 <!-- commit-log: 2026-07-14T15:41:33 - feat: add favicon and social preview image -->
 
 <!-- commit-log: 2026-07-14T16:40:34 - docs: update HTML comments for clarity -->
+
+<!-- commit-log: 2026-07-29T10:33:45 - feat: add contact form with basic validation -->
