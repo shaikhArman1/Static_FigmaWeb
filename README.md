@@ -113,3 +113,5 @@
 <!-- commit-log: 2026-07-29T19:10:31 - fix: correct grid alignment in features section -->
 
 <!-- commit-log: 2026-07-29T21:50:43 - fix: remove unused CSS declarations -->
+
+<!-- commit-log: 2026-07-29T22:20:39 - style: improve card hover animations -->
