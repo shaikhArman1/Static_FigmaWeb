@@ -105,3 +105,5 @@
 <!-- commit-log: 2026-07-29T17:35:41 - feat: add favicon and social preview image -->
 
 <!-- commit-log: 2026-07-29T18:53:50 - fix: resolve layout shift on smaller viewports -->
+
+<!-- commit-log: 2026-07-29T18:43:24 - style: polish section transitions with AOS -->
