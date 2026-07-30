@@ -115,3 +115,5 @@
 <!-- commit-log: 2026-07-29T21:50:43 - fix: remove unused CSS declarations -->
 
 <!-- commit-log: 2026-07-29T22:20:39 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-07-30T16:08:10 - style: improve mobile hamburger menu styling -->
