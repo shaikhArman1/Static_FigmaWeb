@@ -121,3 +121,5 @@
 <!-- commit-log: 2026-08-10T09:28:12 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-08-10T12:31:53 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-08-10T13:44:29 - style: refine typography and spacing across sections -->
