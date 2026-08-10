@@ -117,3 +117,5 @@
 <!-- commit-log: 2026-07-29T22:20:39 - style: improve card hover animations -->
 
 <!-- commit-log: 2026-07-30T16:08:10 - style: improve mobile hamburger menu styling -->
+
+<!-- commit-log: 2026-08-10T09:28:12 - fix: ensure images have proper alt attributes -->
