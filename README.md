@@ -127,3 +127,5 @@
 <!-- commit-log: 2026-08-10T16:49:28 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-08-10T16:01:27 - fix: resolve broken link in navigation menu -->
+
+<!-- commit-log: 2026-08-10T21:14:02 - fix: resolve layout shift on smaller viewports -->
