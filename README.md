@@ -125,3 +125,5 @@
 <!-- commit-log: 2026-08-10T13:44:29 - style: refine typography and spacing across sections -->
 
 <!-- commit-log: 2026-08-10T16:49:28 - fix: ensure images have proper alt attributes -->
+
+<!-- commit-log: 2026-08-10T16:01:27 - fix: resolve broken link in navigation menu -->
