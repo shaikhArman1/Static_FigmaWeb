@@ -131,3 +131,5 @@
 <!-- commit-log: 2026-08-10T21:14:02 - fix: resolve layout shift on smaller viewports -->
 
 <!-- commit-log: 2026-08-29T10:41:57 - style: improve mobile hamburger menu styling -->
+
+<!-- commit-log: 2026-08-29T22:20:01 - fix: ensure images have proper alt attributes -->
